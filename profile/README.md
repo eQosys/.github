@@ -9,13 +9,13 @@ This organization contains all Q related projects and sources.
 
  * [QIPU](https://github.com/eQosys/QIPU) - HDL code for the QIPU. The QIPU is a simple CPU for the Basys3 FPGA board.
 
+ * [QIMU](https://github.com/eQosys/QIMU) - The emulator for the QIPU.
+
  * [qinp-lang](https://github.com/eQosys/qinp-lang) - VSCode extension for the QINP language. (Syntax highlighting, snippets)
 
  * [qism-lang](https://github.com/eQosys/qism-lang) - VSCode extension for the QISM assembly language. (Syntax highlighting)
 
 ## Future projects
- * QIOS - The QIOS is the operating system for the QIPU. It is written in QINP & QISM.
+ * QIOS - The operating system for the QIPU. It is written in QINP & QISM.
 
- * QIMU - THE QIMU is the emulator for the QIPU.
-
- * QISA - The QISA is the instruction set architecture for the QIPU.
+ * QISA - The instruction set architecture documentation for the QIPU.
