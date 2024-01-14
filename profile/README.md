@@ -15,6 +15,8 @@ This organization contains all Q related projects and sources.
 
  * [qism-lang](https://github.com/eQosys/qism-lang) - VSCode extension for the QISM assembly language. (Syntax highlighting)
 
+ * [qrawlr-lang](https://github.com/eQosys/qrawlr-lang) - VSCode extension for the Qrawlr Grammar language. (Syntax highlighting)
+
 ## Future projects
  * QIOS - The operating system for the QIPU. It is written in QINP & QISM.
 
