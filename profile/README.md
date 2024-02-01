@@ -20,4 +20,6 @@ This organization contains all Q related projects and sources.
 ## Future projects
  * QIOS - The operating system for the QIPU. It is written in QINP & QISM.
 
+ * QIFS - The official filesystem used by the QIOS.
+
  * QISA - The instruction set architecture documentation for the QIPU.
