@@ -23,3 +23,5 @@ This organization contains all Q related projects and sources.
  * QIFS - The official filesystem used by the QIOS.
 
  * QISA - The instruction set architecture documentation for the QIPU.
+
+ * QIMAN - The QINP Package Manager
