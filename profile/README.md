@@ -24,4 +24,6 @@ This organization contains all Q related projects and sources.
 
  * QISA - The instruction set architecture documentation for the QIPU.
 
+ * QIPKG - The QINP package creator/installer
+
  * QIMAN - The QINP Package Manager
