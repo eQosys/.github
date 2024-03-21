@@ -11,6 +11,8 @@ This organization contains all Q related projects and sources.
 
  * [QIMU](https://github.com/eQosys/QIMU) - The emulator for the QIPU.
 
+ * [Qrawlr](https://github.com/eQosys/Qrawlr) - Simple text crawler used by QINP and QISM to build syntax trees. (future)
+
  * [qinp-lang](https://github.com/eQosys/qinp-lang) - VSCode extension for the QINP language. (Syntax highlighting, snippets)
 
  * [qism-lang](https://github.com/eQosys/qism-lang) - VSCode extension for the QISM assembly language. (Syntax highlighting)
